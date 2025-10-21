@@ -84,7 +84,7 @@
       "Initial calculations cover this change. No action required.",
       "Perform a rolling takeoff"
     ],
-    "correct": 0,
+    "correct": 2,
     "category": "Performance"
   },
   {
@@ -189,9 +189,9 @@
   {
     "question": "What is considered to be a 'forward' CG at takeoff?",
     "answers": [
-      "less than 27%",
+      "less than 29%",
       "less than or equal to 27%",
-      "less than 30%",
+      "less than 27%",
       "less than or equal to 30%"
     ],
     "correct": 0,
@@ -201,7 +201,7 @@
     "question": "What is considered to be a 'standard' CG at takeoff?",
     "answers": [
       "More than 27%",
-      "More than or equal to 27%",
+      "More than or equal to 29%",
       "More than 30%",
       "More than or equal to 30%"
     ],
@@ -5443,8 +5443,20 @@
     ],
     "correct": 0,
     "category": "New"
+  },
+  {
+    "question": "What is considered to be a 'forward' CG at landing?",
+    "answers": [
+      "less than 29%",
+      "less than or equal to 27%",
+      "less than 27%",
+      "less than or equal to 30%"
+    ],
+    "correct": 0,
+    "category": "Performance"
   }
 ];
+
 
 
 
