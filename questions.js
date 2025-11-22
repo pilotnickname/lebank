@@ -174,6 +174,17 @@
     ],
     "correct": 1,
     "category": "Performance"
+  },  
+  {
+    "question": "Where is the correct place to find RWY COND EFB entry in flight for landing?",
+    "answers": [
+      "OM-A",
+      "RCR (Runway Condition Report)",
+      "EFB MORE app",
+      "OM-B"
+    ],
+    "correct": 1,
+    "category": "Performance"
   },
   {
     "question": "Under which conditions must engine anti-ice be used?",
@@ -5456,6 +5467,7 @@
     "category": "Performance"
   }
 ];
+
 
 
 
