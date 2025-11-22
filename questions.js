@@ -5465,6 +5465,17 @@
     ],
     "correct": 0,
     "category": "Performance"
+  },
+  {
+    "question": "What happens when EXT PWR is connected?",
+    "answers": [
+      "EXT PWR line contactor closes and powers DC BUS 1 and 2 through normal bus tie connections",
+      "EXT PWR line contactor opens and powers DC BUS 1 and 2 through normal bus tie connections",
+      "EXT PWR line contactor closes and powers AC BUS 1 and 2 through normal bus tie connections",
+      "EXT PWR line contactor opens and powers AC BUS 1 and 2 through normal bus tie connections"
+    ],
+    "correct": 2,
+    "category": "Electrical"
   }
 ];
 
